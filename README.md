@@ -1,4 +1,4 @@
-# Image Restoration using Generative Adversarial Networks (GAN)
+#  ClearVision-GAN: Image Restoration Using Generative Adversarial Networks
 ## Team
 Amit Kumar &
 Anumula Bharath Kumar
